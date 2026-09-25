@@ -1,4 +1,0 @@
-interface:
-  display_name: "Landscape & Architecture Watercolor"
-  short_description: "Watercolor editorials for scenery and architecture"
-  default_prompt: "Use $landscape-architecture-watercolor to transform this landscape or architecture photo into a watercolor editorial diptych."
